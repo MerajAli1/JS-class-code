@@ -52,18 +52,18 @@
 // }
 
 
-function stylingON() {
-    var body = document.getElementsByTagName('body')
-    var para = document.getElementById("para")
-    para.className = "xyz"
-    body[0].className = "xyz"
-}
-function stylingOFF() {
-    var body = document.getElementsByTagName('body')
-    var para = document.getElementById("para")
-    para.className = "abc"
-    body[0].className = "abc"
-}
+// function stylingON() {
+//     var body = document.getElementsByTagName('body')
+//     var para = document.getElementById("para")
+//     para.className = "xyz"
+//     body[0].className = "xyz"
+// }
+// function stylingOFF() {
+//     var body = document.getElementsByTagName('body')
+//     var para = document.getElementById("para")
+//     para.className = "abc"
+//     body[0].className = "abc"
+// }
 
 
 
